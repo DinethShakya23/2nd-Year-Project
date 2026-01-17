@@ -10,17 +10,17 @@ This project includes four main documentation files, each serving a different pu
 
 | Document | Purpose | Audience | Read Time |
 |----------|---------|----------|-----------|
-| **README.md** | Original project description | All users | 5 min |
-| **PROJECT_OVERVIEW.md** | Comprehensive project details | All stakeholders | 20 min |
-| **QUICK_START_GUIDE.md** | Fast setup and reference | Developers | 10 min |
-| **TECHNICAL_ARCHITECTURE.md** | Deep technical details | Developers, Architects | 30 min |
+| **[README.md](./README.md)** | Original project description | All users | 5 min |
+| **[PROJECT_OVERVIEW.md](./PROJECT_OVERVIEW.md)** | Comprehensive project details | All stakeholders | 20 min |
+| **[QUICK_START_GUIDE.md](./QUICK_START_GUIDE.md)** | Fast setup and reference | Developers | 10 min |
+| **[TECHNICAL_ARCHITECTURE.md](./TECHNICAL_ARCHITECTURE.md)** | Deep technical details | Developers, Architects | 30 min |
 
 ---
 
 ## 📖 Document Descriptions
 
 ### 1. README.md (Original)
-**File:** `README.md`  
+**File:** [`README.md`](./README.md)  
 **Size:** ~5 KB  
 **Purpose:** Project introduction and overview
 
@@ -39,7 +39,7 @@ This project includes four main documentation files, each serving a different pu
 ---
 
 ### 2. PROJECT_OVERVIEW.md (Comprehensive)
-**File:** `PROJECT_OVERVIEW.md`  
+**File:** [`PROJECT_OVERVIEW.md`](./PROJECT_OVERVIEW.md)  
 **Size:** ~25 KB  
 **Purpose:** Complete project documentation
 
@@ -75,7 +75,7 @@ This project includes four main documentation files, each serving a different pu
 ---
 
 ### 3. QUICK_START_GUIDE.md (Developer Quick Reference)
-**File:** `QUICK_START_GUIDE.md`  
+**File:** [`QUICK_START_GUIDE.md`](./QUICK_START_GUIDE.md)  
 **Size:** ~7 KB  
 **Purpose:** Fast setup and quick reference
 
@@ -110,7 +110,7 @@ This project includes four main documentation files, each serving a different pu
 ---
 
 ### 4. TECHNICAL_ARCHITECTURE.md (Technical Deep Dive)
-**File:** `TECHNICAL_ARCHITECTURE.md`  
+**File:** [`TECHNICAL_ARCHITECTURE.md`](./TECHNICAL_ARCHITECTURE.md)  
 **Size:** ~24 KB  
 **Purpose:** Deep technical documentation
 
@@ -154,42 +154,42 @@ This project includes four main documentation files, each serving a different pu
 ### "I want to..."
 
 #### Learn About the Project
-→ Start with **README.md**, then read **PROJECT_OVERVIEW.md**
+→ Start with [README.md](./README.md), then read [PROJECT_OVERVIEW.md](./PROJECT_OVERVIEW.md)
 
 #### Set Up the Project Quickly
-→ Go to **QUICK_START_GUIDE.md** → Section "Quick Setup (5 Minutes)"
+→ Go to [QUICK_START_GUIDE.md](./QUICK_START_GUIDE.md) → Section "Quick Setup (5 Minutes)"
 
 #### Understand the Technology
-→ **PROJECT_OVERVIEW.md** → Section "Technology Stack"  
-→ **TECHNICAL_ARCHITECTURE.md** → Section "System Architecture"
+→ [PROJECT_OVERVIEW.md](./PROJECT_OVERVIEW.md) → Section "Technology Stack"  
+→ [TECHNICAL_ARCHITECTURE.md](./TECHNICAL_ARCHITECTURE.md) → Section "System Architecture"
 
 #### Find API Endpoints
-→ **QUICK_START_GUIDE.md** → Section "Key API Endpoints" (common ones)  
-→ **PROJECT_OVERVIEW.md** → Section "API Endpoints" (complete list)
+→ [QUICK_START_GUIDE.md](./QUICK_START_GUIDE.md) → Section "Key API Endpoints" (common ones)  
+→ [PROJECT_OVERVIEW.md](./PROJECT_OVERVIEW.md) → Section "API Endpoints" (complete list)
 
 #### Understand the Database
-→ **PROJECT_OVERVIEW.md** → Section "Database Schema"  
-→ **TECHNICAL_ARCHITECTURE.md** → Section "Database Design" (with ER diagrams)
+→ [PROJECT_OVERVIEW.md](./PROJECT_OVERVIEW.md) → Section "Database Schema"  
+→ [TECHNICAL_ARCHITECTURE.md](./TECHNICAL_ARCHITECTURE.md) → Section "Database Design" (with ER diagrams)
 
 #### Learn About Security
-→ **PROJECT_OVERVIEW.md** → Section "Security Implementation"  
-→ **TECHNICAL_ARCHITECTURE.md** → Section "Security Architecture"
+→ [PROJECT_OVERVIEW.md](./PROJECT_OVERVIEW.md) → Section "Security Implementation"  
+→ [TECHNICAL_ARCHITECTURE.md](./TECHNICAL_ARCHITECTURE.md) → Section "Security Architecture"
 
 #### Understand the Code Structure
-→ **PROJECT_OVERVIEW.md** → Sections "Backend Structure" and "Frontend Structure"  
-→ **TECHNICAL_ARCHITECTURE.md** → Sections "Backend Architecture" and "Frontend Architecture"
+→ [PROJECT_OVERVIEW.md](./PROJECT_OVERVIEW.md) → Sections "Backend Structure" and "Frontend Structure"  
+→ [TECHNICAL_ARCHITECTURE.md](./TECHNICAL_ARCHITECTURE.md) → Sections "Backend Architecture" and "Frontend Architecture"
 
 #### Troubleshoot Issues
-→ **QUICK_START_GUIDE.md** → Section "Troubleshooting"
+→ [QUICK_START_GUIDE.md](./QUICK_START_GUIDE.md) → Section "Troubleshooting"
 
 #### Deploy the Application
-→ **PROJECT_OVERVIEW.md** → Section "Setup and Installation"  
-→ **TECHNICAL_ARCHITECTURE.md** → Section "Deployment Architecture"
+→ [PROJECT_OVERVIEW.md](./PROJECT_OVERVIEW.md) → Section "Setup and Installation"  
+→ [TECHNICAL_ARCHITECTURE.md](./TECHNICAL_ARCHITECTURE.md) → Section "Deployment Architecture"
 
 #### Contribute to the Project
-1. Read **PROJECT_OVERVIEW.md** for project understanding
-2. Read **QUICK_START_GUIDE.md** to set up
-3. Read **TECHNICAL_ARCHITECTURE.md** to understand the architecture
+1. Read [PROJECT_OVERVIEW.md](./PROJECT_OVERVIEW.md) for project understanding  
+2. Read [QUICK_START_GUIDE.md](./QUICK_START_GUIDE.md) to set up  
+3. Read [TECHNICAL_ARCHITECTURE.md](./TECHNICAL_ARCHITECTURE.md) to understand the architecture  
 4. Check the code structure and start coding!
 
 ---
@@ -225,31 +225,31 @@ This project includes four main documentation files, each serving a different pu
 ## 🚀 Recommended Reading Paths
 
 ### For New Team Members
-1. **README.md** (5 min) - Get the big picture
-2. **PROJECT_OVERVIEW.md** (20 min) - Understand everything
-3. **QUICK_START_GUIDE.md** (10 min) - Set up your environment
-4. **TECHNICAL_ARCHITECTURE.md** (30 min) - Learn the technical details
+1. [README.md](./README.md) (5 min) - Get the big picture  
+2. [PROJECT_OVERVIEW.md](./PROJECT_OVERVIEW.md) (20 min) - Understand everything  
+3. [QUICK_START_GUIDE.md](./QUICK_START_GUIDE.md) (10 min) - Set up your environment  
+4. [TECHNICAL_ARCHITECTURE.md](./TECHNICAL_ARCHITECTURE.md) (30 min) - Learn the technical details  
 
 ### For Developers Joining the Project
-1. **QUICK_START_GUIDE.md** (10 min) - Set up quickly
-2. **PROJECT_OVERVIEW.md** → Backend/Frontend Structure (10 min)
-3. **TECHNICAL_ARCHITECTURE.md** → Your focus area (15 min)
+1. [QUICK_START_GUIDE.md](./QUICK_START_GUIDE.md) (10 min) - Set up quickly  
+2. [PROJECT_OVERVIEW.md](./PROJECT_OVERVIEW.md) → Backend/Frontend Structure (10 min)  
+3. [TECHNICAL_ARCHITECTURE.md](./TECHNICAL_ARCHITECTURE.md) → Your focus area (15 min)  
 4. Start coding with docs as reference!
 
 ### For Project Evaluators/Stakeholders
-1. **README.md** (5 min) - Project overview
-2. **PROJECT_OVERVIEW.md** (20 min) - Complete understanding
-3. **TECHNICAL_ARCHITECTURE.md** → Security & Architecture (10 min)
+1. [README.md](./README.md) (5 min) - Project overview  
+2. [PROJECT_OVERVIEW.md](./PROJECT_OVERVIEW.md) (20 min) - Complete understanding  
+3. [TECHNICAL_ARCHITECTURE.md](./TECHNICAL_ARCHITECTURE.md) → Security & Architecture (10 min)  
 
 ### For System Integrators
-1. **PROJECT_OVERVIEW.md** → API Endpoints (10 min)
-2. **TECHNICAL_ARCHITECTURE.md** → API Design & Data Flow (20 min)
-3. **QUICK_START_GUIDE.md** → Keep as reference
+1. [PROJECT_OVERVIEW.md](./PROJECT_OVERVIEW.md) → API Endpoints (10 min)  
+2. [TECHNICAL_ARCHITECTURE.md](./TECHNICAL_ARCHITECTURE.md) → API Design & Data Flow (20 min)  
+3. [QUICK_START_GUIDE.md](./QUICK_START_GUIDE.md) → Keep as reference  
 
 ### For Operations/DevOps
-1. **QUICK_START_GUIDE.md** → Setup (10 min)
-2. **PROJECT_OVERVIEW.md** → Setup and Installation (10 min)
-3. **TECHNICAL_ARCHITECTURE.md** → Deployment Architecture (15 min)
+1. [QUICK_START_GUIDE.md](./QUICK_START_GUIDE.md) → Setup (10 min)  
+2. [PROJECT_OVERVIEW.md](./PROJECT_OVERVIEW.md) → Setup and Installation (10 min)  
+3. [TECHNICAL_ARCHITECTURE.md](./TECHNICAL_ARCHITECTURE.md) → Deployment Architecture (15 min)  
 
 ---
 
@@ -301,23 +301,23 @@ When making changes to the project, please update relevant documentation:
 For questions or clarifications about the documentation:
 
 **Team Members:**
-- Kavindu Gajendra - e20016@eng.pdn.ac.lk
-- Dineth Shakya - e20055@eng.pdn.ac.lk
-- Janith Madhura - e20231@eng.pdn.ac.lk
-- Nethmin Tharusha - e20404@eng.pdn.ac.lk
+- Kavindu Gajendra - e20016@eng.pdn.ac.lk  
+- Dineth Shakya - e20055@eng.pdn.ac.lk  
+- Janith Madhura - e20231@eng.pdn.ac.lk  
+- Nethmin Tharusha - e20404@eng.pdn.ac.lk  
 
 ---
 
 ## 📊 Documentation Statistics
 
-- **Total Documentation Files:** 4
-- **Total Documentation Size:** ~61 KB
-- **Total Sections:** 50+
-- **Code Examples:** 20+
-- **Diagrams:** 10+
-- **API Endpoints Documented:** 71+
-- **Features Documented:** 11
-- **Entities Documented:** 24
+- **Total Documentation Files:** 4  
+- **Total Documentation Size:** ~61 KB  
+- **Total Sections:** 50+  
+- **Code Examples:** 20+  
+- **Diagrams:** 10+  
+- **API Endpoints Documented:** 71+  
+- **Features Documented:** 11  
+- **Entities Documented:** 24  
 
 ---
 
@@ -326,30 +326,30 @@ For questions or clarifications about the documentation:
 Use this checklist to ensure you've read the necessary documentation:
 
 ### Essential Reading (Everyone)
-- [ ] README.md - Project overview
-- [ ] PROJECT_OVERVIEW.md - Comprehensive guide
+- [ ] [README.md](./README.md) - Project overview  
+- [ ] [PROJECT_OVERVIEW.md](./PROJECT_OVERVIEW.md) - Comprehensive guide  
 
 ### Developer Reading
-- [ ] QUICK_START_GUIDE.md - Setup and reference
-- [ ] TECHNICAL_ARCHITECTURE.md - Technical details
-- [ ] Backend code structure
-- [ ] Frontend code structure
+- [ ] [QUICK_START_GUIDE.md](./QUICK_START_GUIDE.md) - Setup and reference  
+- [ ] [TECHNICAL_ARCHITECTURE.md](./TECHNICAL_ARCHITECTURE.md) - Technical details  
+- [ ] Backend code structure  
+- [ ] Frontend code structure  
 
 ### Specific Areas
-- [ ] Security implementation
-- [ ] Database design
-- [ ] API endpoints
-- [ ] External integrations
-- [ ] Deployment process
+- [ ] Security implementation  
+- [ ] Database design  
+- [ ] API endpoints  
+- [ ] External integrations  
+- [ ] Deployment process  
 
 ---
 
 ## 🎯 Summary
 
 **Start Here:**
-- New to the project? → **README.md** → **PROJECT_OVERVIEW.md**
-- Need to code? → **QUICK_START_GUIDE.md**
-- Deep technical understanding? → **TECHNICAL_ARCHITECTURE.md**
+- New to the project? → [README.md](./README.md) → [PROJECT_OVERVIEW.md](./PROJECT_OVERVIEW.md)  
+- Need to code? → [QUICK_START_GUIDE.md](./QUICK_START_GUIDE.md)  
+- Deep technical understanding? → [TECHNICAL_ARCHITECTURE.md](./TECHNICAL_ARCHITECTURE.md)  
 
 **All documentation is interconnected and complementary. Use this index to navigate efficiently!**
 
