@@ -14,7 +14,6 @@ This project includes five main documentation files, each serving a different pu
 | **PROJECT_OVERVIEW.md** | Comprehensive project details | All stakeholders | 20 min |
 | **QUICK_START_GUIDE.md** | Fast setup and reference | Developers | 10 min |
 | **TECHNICAL_ARCHITECTURE.md** | Deep technical details | Developers, Architects | 30 min |
-| **DATABASE_DESIGN.md** | Complete database documentation | Database Admins, Developers | 40 min |
 
 ---
 
@@ -147,45 +146,6 @@ This project includes five main documentation files, each serving a different pu
 - Know how data flows through the system
 - Plan for scaling or optimization
 - Integrate with external systems
-
----
-
-### 5. DATABASE_DESIGN.md (Complete Database Documentation)
-**File:** `DATABASE_DESIGN.md`  
-**Size:** ~54 KB  
-**Purpose:** Comprehensive database design and ER diagram documentation
-
-**Contents:**
-1. **Overview** - Database purpose and technology stack
-2. **Database Schema Summary** - All 27 entities categorized
-3. **Entity-Relationship Diagram** - Complete ER diagrams
-4. **Detailed Table Specifications** - All 27 tables with columns, types, constraints
-5. **Relationships and Constraints** - Foreign keys, cascades, referential integrity
-6. **Indexes and Performance** - Index strategies and optimization
-7. **Data Integrity Rules** - Business rules and validation
-8. **Database Conventions** - Naming, data types, ID strategies
-9. **Database Initialization** - Auto DDL and migration strategies
-10. **Performance Benchmarks** - Expected query performance
-11. **Security Considerations** - Password storage, SQL injection prevention
-12. **Backup and Recovery** - Backup strategies and retention policies
-13. **Future Enhancements** - Recommended improvements
-14. **Appendix** - Sample data and size estimates
-
-**Best For:**
-- ✅ Database administrators
-- ✅ Backend developers working with data
-- ✅ Understanding database schema deeply
-- ✅ Database optimization and tuning
-- ✅ Data migration and backup planning
-- ✅ Database security implementation
-
-**Read This If You Want To:**
-- Understand the complete database schema
-- Learn about all table structures and relationships
-- Optimize database queries
-- Implement database migrations
-- Plan backup and recovery strategies
-- Understand data integrity rules
 
 ---
 
