@@ -6,7 +6,7 @@ Welcome to the comprehensive documentation for the **Student Academic Tracker** 
 
 ## 📚 Documentation Overview
 
-This project includes four main documentation files, each serving a different purpose:
+This project includes five main documentation files, each serving a different purpose:
 
 | Document | Purpose | Audience | Read Time |
 |----------|---------|----------|-----------|
@@ -14,6 +14,7 @@ This project includes four main documentation files, each serving a different pu
 | **PROJECT_OVERVIEW.md** | Comprehensive project details | All stakeholders | 20 min |
 | **QUICK_START_GUIDE.md** | Fast setup and reference | Developers | 10 min |
 | **TECHNICAL_ARCHITECTURE.md** | Deep technical details | Developers, Architects | 30 min |
+| **DATABASE_DESIGN.md** | Complete database documentation | Database Admins, Developers | 40 min |
 
 ---
 
@@ -149,6 +150,45 @@ This project includes four main documentation files, each serving a different pu
 
 ---
 
+### 5. DATABASE_DESIGN.md (Complete Database Documentation)
+**File:** `DATABASE_DESIGN.md`  
+**Size:** ~54 KB  
+**Purpose:** Comprehensive database design and ER diagram documentation
+
+**Contents:**
+1. **Overview** - Database purpose and technology stack
+2. **Database Schema Summary** - All 27 entities categorized
+3. **Entity-Relationship Diagram** - Complete ER diagrams
+4. **Detailed Table Specifications** - All 27 tables with columns, types, constraints
+5. **Relationships and Constraints** - Foreign keys, cascades, referential integrity
+6. **Indexes and Performance** - Index strategies and optimization
+7. **Data Integrity Rules** - Business rules and validation
+8. **Database Conventions** - Naming, data types, ID strategies
+9. **Database Initialization** - Auto DDL and migration strategies
+10. **Performance Benchmarks** - Expected query performance
+11. **Security Considerations** - Password storage, SQL injection prevention
+12. **Backup and Recovery** - Backup strategies and retention policies
+13. **Future Enhancements** - Recommended improvements
+14. **Appendix** - Sample data and size estimates
+
+**Best For:**
+- ✅ Database administrators
+- ✅ Backend developers working with data
+- ✅ Understanding database schema deeply
+- ✅ Database optimization and tuning
+- ✅ Data migration and backup planning
+- ✅ Database security implementation
+
+**Read This If You Want To:**
+- Understand the complete database schema
+- Learn about all table structures and relationships
+- Optimize database queries
+- Implement database migrations
+- Plan backup and recovery strategies
+- Understand data integrity rules
+
+---
+
 ## 🎯 Quick Navigation Guide
 
 ### "I want to..."
@@ -168,8 +208,9 @@ This project includes four main documentation files, each serving a different pu
 → **PROJECT_OVERVIEW.md** → Section "API Endpoints" (complete list)
 
 #### Understand the Database
-→ **PROJECT_OVERVIEW.md** → Section "Database Schema"  
-→ **TECHNICAL_ARCHITECTURE.md** → Section "Database Design" (with ER diagrams)
+→ **DATABASE_DESIGN.md** → Complete database documentation with ER diagrams  
+→ **PROJECT_OVERVIEW.md** → Section "Database Schema" (quick overview)  
+→ **TECHNICAL_ARCHITECTURE.md** → Section "Database Design" (architecture view)
 
 #### Learn About Security
 → **PROJECT_OVERVIEW.md** → Section "Security Implementation"  
@@ -198,21 +239,25 @@ This project includes four main documentation files, each serving a different pu
 
 ### What Each Document Covers
 
-| Topic | README | PROJECT_OVERVIEW | QUICK_START | TECHNICAL_ARCH |
-|-------|--------|------------------|-------------|----------------|
-| Project Introduction | ✅ | ✅✅✅ | ✅ | ✅ |
-| Team Information | ✅ | ✅✅✅ | ✅ | ❌ |
-| Technology Stack | ❌ | ✅✅✅ | ✅✅ | ✅✅✅ |
-| Features Overview | ✅✅ | ✅✅✅ | ✅✅ | ❌ |
-| Setup Instructions | ❌ | ✅✅✅ | ✅✅✅ | ✅ |
-| Architecture Diagrams | ❌ | ✅✅ | ❌ | ✅✅✅ |
-| Database Schema | ❌ | ✅✅✅ | ✅ | ✅✅✅ |
-| API Documentation | ❌ | ✅✅✅ | ✅✅ | ✅✅ |
-| Code Examples | ❌ | ❌ | ❌ | ✅✅✅ |
-| Security Details | ❌ | ✅✅ | ✅ | ✅✅✅ |
-| Data Flow | ❌ | ❌ | ❌ | ✅✅✅ |
-| Troubleshooting | ❌ | ❌ | ✅✅✅ | ❌ |
-| Quick Reference | ❌ | ❌ | ✅✅✅ | ❌ |
+| Topic | README | PROJECT_OVERVIEW | QUICK_START | TECHNICAL_ARCH | DATABASE_DESIGN |
+|-------|--------|------------------|-------------|----------------|-----------------|
+| Project Introduction | ✅ | ✅✅✅ | ✅ | ✅ | ❌ |
+| Team Information | ✅ | ✅✅✅ | ✅ | ❌ | ❌ |
+| Technology Stack | ❌ | ✅✅✅ | ✅✅ | ✅✅✅ | ✅ |
+| Features Overview | ✅✅ | ✅✅✅ | ✅✅ | ❌ | ❌ |
+| Setup Instructions | ❌ | ✅✅✅ | ✅✅✅ | ✅ | ✅ |
+| Architecture Diagrams | ❌ | ✅✅ | ❌ | ✅✅✅ | ❌ |
+| Database Schema | ❌ | ✅✅✅ | ✅ | ✅✅✅ | ✅✅✅ |
+| Database ER Diagrams | ❌ | ❌ | ❌ | ✅✅ | ✅✅✅ |
+| Table Specifications | ❌ | ❌ | ❌ | ❌ | ✅✅✅ |
+| Database Relationships | ❌ | ✅ | ❌ | ✅✅ | ✅✅✅ |
+| Indexes & Performance | ❌ | ❌ | ❌ | ✅ | ✅✅✅ |
+| API Documentation | ❌ | ✅✅✅ | ✅✅ | ✅✅ | ❌ |
+| Code Examples | ❌ | ❌ | ❌ | ✅✅✅ | ✅ |
+| Security Details | ❌ | ✅✅ | ✅ | ✅✅✅ | ✅✅ |
+| Data Flow | ❌ | ❌ | ❌ | ✅✅✅ | ❌ |
+| Troubleshooting | ❌ | ❌ | ✅✅✅ | ❌ | ❌ |
+| Quick Reference | ❌ | ❌ | ✅✅✅ | ❌ | ❌ |
 
 **Legend:**  
 ✅✅✅ = Comprehensive coverage  
@@ -229,12 +274,14 @@ This project includes four main documentation files, each serving a different pu
 2. **PROJECT_OVERVIEW.md** (20 min) - Understand everything
 3. **QUICK_START_GUIDE.md** (10 min) - Set up your environment
 4. **TECHNICAL_ARCHITECTURE.md** (30 min) - Learn the technical details
+5. **DATABASE_DESIGN.md** (40 min) - Understand the database schema
 
 ### For Developers Joining the Project
 1. **QUICK_START_GUIDE.md** (10 min) - Set up quickly
 2. **PROJECT_OVERVIEW.md** → Backend/Frontend Structure (10 min)
-3. **TECHNICAL_ARCHITECTURE.md** → Your focus area (15 min)
-4. Start coding with docs as reference!
+3. **DATABASE_DESIGN.md** → Relevant tables (15 min)
+4. **TECHNICAL_ARCHITECTURE.md** → Your focus area (15 min)
+5. Start coding with docs as reference!
 
 ### For Project Evaluators/Stakeholders
 1. **README.md** (5 min) - Project overview
@@ -243,8 +290,14 @@ This project includes four main documentation files, each serving a different pu
 
 ### For System Integrators
 1. **PROJECT_OVERVIEW.md** → API Endpoints (10 min)
-2. **TECHNICAL_ARCHITECTURE.md** → API Design & Data Flow (20 min)
-3. **QUICK_START_GUIDE.md** → Keep as reference
+2. **DATABASE_DESIGN.md** → Database Schema (15 min)
+3. **TECHNICAL_ARCHITECTURE.md** → API Design & Data Flow (20 min)
+4. **QUICK_START_GUIDE.md** → Keep as reference
+
+### For Database Administrators
+1. **DATABASE_DESIGN.md** (40 min) - Complete database documentation
+2. **TECHNICAL_ARCHITECTURE.md** → Database Design (10 min)
+3. **PROJECT_OVERVIEW.md** → Setup and Installation (10 min)
 
 ### For Operations/DevOps
 1. **QUICK_START_GUIDE.md** → Setup (10 min)
@@ -291,6 +344,8 @@ When making changes to the project, please update relevant documentation:
 | New API endpoint | PROJECT_OVERVIEW.md → API Endpoints<br>QUICK_START_GUIDE.md → Key API Endpoints |
 | New dependency | PROJECT_OVERVIEW.md → Technology Stack |
 | Architecture change | TECHNICAL_ARCHITECTURE.md → Relevant section |
+| Database schema change | DATABASE_DESIGN.md → Detailed Table Specifications<br>TECHNICAL_ARCHITECTURE.md → Database Design |
+| New entity/table | DATABASE_DESIGN.md → Add to schema and ER diagram |
 | Setup process change | QUICK_START_GUIDE.md → Quick Setup<br>PROJECT_OVERVIEW.md → Setup and Installation |
 | New page/file | PROJECT_OVERVIEW.md → Frontend/Backend Structure |
 
@@ -310,14 +365,15 @@ For questions or clarifications about the documentation:
 
 ## 📊 Documentation Statistics
 
-- **Total Documentation Files:** 4
-- **Total Documentation Size:** ~61 KB
-- **Total Sections:** 50+
-- **Code Examples:** 20+
-- **Diagrams:** 10+
+- **Total Documentation Files:** 5
+- **Total Documentation Size:** ~115 KB
+- **Total Sections:** 60+
+- **Code Examples:** 30+
+- **Diagrams:** 15+
 - **API Endpoints Documented:** 71+
 - **Features Documented:** 11
-- **Entities Documented:** 24
+- **Entities Documented:** 27
+- **Database Tables Documented:** 27
 
 ---
 
@@ -350,6 +406,7 @@ Use this checklist to ensure you've read the necessary documentation:
 - New to the project? → **README.md** → **PROJECT_OVERVIEW.md**
 - Need to code? → **QUICK_START_GUIDE.md**
 - Deep technical understanding? → **TECHNICAL_ARCHITECTURE.md**
+- Database work? → **DATABASE_DESIGN.md**
 
 **All documentation is interconnected and complementary. Use this index to navigate efficiently!**
 
