@@ -1,4 +1,4 @@
-# Student Academic Tracker - Documentation Index
+# Learning Management System - Documentation Index
 
 Welcome to the comprehensive documentation for the **Student Academic Tracker** project! This index will help you navigate through all the documentation available.
 
