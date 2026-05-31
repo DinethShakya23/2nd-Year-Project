@@ -1,0 +1,28 @@
+# Build output
+target/
+*.war
+*.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# Secrets
+**/application.properties
+
+# IDE
+.idea/
+.vscode/
+*.iws
+*.iml
+*.ipr
+.classpath
+.project
+.settings/
+.springBeans
+.sts4-cache
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
